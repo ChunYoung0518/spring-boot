@@ -1,4 +1,4 @@
-package com.daniel.sample.eventhanddler;
+package com.daniel.sample.eventhandler;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

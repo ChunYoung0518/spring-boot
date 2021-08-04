@@ -1,4 +1,4 @@
-package com.daniel.sample.eventhanddler;
+package com.daniel.sample.eventhandler;
 
 import com.daniel.sample.event.UserCreatedEvent;
 import org.springframework.context.ApplicationListener;
