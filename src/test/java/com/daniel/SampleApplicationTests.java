@@ -1,4 +1,4 @@
-package com.daniel.sample;
+package com.daniel;
 
 import com.daniel.sample.model.User;
 import org.junit.Assert;
